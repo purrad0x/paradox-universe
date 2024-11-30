@@ -1,5 +1,6 @@
 ---
 title: Добро пожаловать на Парадокс Wiki
+enableToc: "false"
 ---
 # What is it?
 
@@ -43,3 +44,4 @@ _Gatekeeper is a fast-paced rogue-lite. Go on a quest to find the stolen Heart o
 <div class="description">All patchnotes since the game became purchasable.</div>
 </a>
 </div>
+
