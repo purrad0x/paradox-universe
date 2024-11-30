@@ -1,6 +1,7 @@
 ---
 title: Добро пожаловать на Парадокс Wiki
-enableToc: "false"
+cssclasses:
+  - wide-page
 ---
 # What is it?
 
