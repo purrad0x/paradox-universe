@@ -8,3 +8,4 @@ title: Добро пожаловать на Парадокс Wiki
 <div class="title">Персонажи</div>
 <div class="description">Все персонажи вселенной.</div>
 </a>
+</div>
