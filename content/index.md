@@ -1,7 +1,5 @@
 ---
 title: Добро пожаловать на Парадокс Wiki
-cssclasses:
-  - wide-page
 ---
 # What is it?
 
